@@ -9,6 +9,18 @@ Coming soon...
 - [Closures](#)
 - [Generics](#)
 - [Methods](#)
+- [Type casting](#)
+- [Lazy loading](#)
+- [Typealias](#)
+--->
+
+## Patterns
+Coming soon...
+<!---
+- [Protocol and Delegates](#)
+- [Singleton](#)
+- [Generics](#)
+
 --->
 
 ## Applications
